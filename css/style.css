@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -1056,74 +1056,6 @@ h1, h2, h3, h4, h5, h6 {
 .btn.btn-default:hover, .btn.btn-default:focus, .btn.btn-default:active {
   border-color: transparent;
 }
-
-.social {
-  padding: 0;
-  margin: 0;
-  display: inline-block;
-  position: relative;
-  width: 100%;
-}
-.social li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: inline-block;
-}
-.social li a {
-  font-size: 16px;
-  display: table;
-  width: 40px;
-  height: 40px;
-  margin: 0 4px;
-}
-.social li a i {
-  display: table-cell;
-  vertical-align: middle;
-}
-.social li a:hover, .social li a:active, .social li a:focus {
-  text-decoration: none;
-  border-bottom: none;
-}
-.social li a.social-box {
-  background: #ff3b30;
-  color: #fff;
-}
-.social li a.social-circle {
-  background: #ff3b30;
-  color: #fff;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
-}
-.social li a:hover {
-  background: #393e46 !important;
-}
-.social.social-box a {
-  background: #ff3b30;
-  color: #fff;
-}
-.social.social-circle a {
-  background: #ff3b30;
-  color: #fff;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
-}
-
-#map {
-  width: 100%;
-  height: 500px;
-  position: relative;
-}
-@media screen and (max-width: 768px) {
-  #map {
-    height: 200px;
-  }
-}
-
 .mfp-with-zoom .mfp-container,
 .mfp-with-zoom.mfp-bg {
   opacity: 0;
