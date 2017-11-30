@@ -1,11 +1,11 @@
-body {
-  font-family: "PT Sans", Arial, serif;
-  font-weight: 300;
-  font-size: 20px;
-  line-height: 1.5;
-  color: #666666;
-  color: #7f7f7f;
+#fh5co-header .navbar-default {
+  border: transparent;
   background: #fff;
-  height: 100%;
-  position: relative;
+  margin: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  border-radius: 0px;
 }
